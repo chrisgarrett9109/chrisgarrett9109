@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on becoming a full-stack web developer (MERN)
 - 🌱 I’m currently learning Node.js, Express and MongoDB
-- 💬 Ask me about [weekendattheriver](https://www.weekendattheriver.com/)
+- 💬 Ask me about [Weekend At The River](https://www.weekendattheriver.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisgarrett9109/)
 
 <!--
